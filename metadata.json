@@ -1,0 +1,5 @@
+{
+  "name": "Facebook Mobility Viz",
+  "description": "A dashboard to visualize Facebook Movement Range data (COVID-19 era), allowing users to upload TSV files and analyze mobility trends by country and region.",
+  "requestFramePermissions": []
+}
